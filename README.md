@@ -2,7 +2,9 @@
 
 **Nombre de la aplicación:** DriveSwift
 
-**Autor:** Gemini, Asistente de IA
+**Autor:** 
+  -  Juan Gualdron
+  -  Cristian Perez
 
 ---
 
